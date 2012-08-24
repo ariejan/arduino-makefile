@@ -1,3 +1,5 @@
+_This fork is the distribution of arduino-makefile on OS X with Homebrew._
+
 # A Makefile for Arduino Sketches
 
 This is a very simple Makefile which knows how to build Arduino sketches.
